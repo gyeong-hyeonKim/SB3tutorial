@@ -6,6 +6,6 @@
 
 학습된 에이전트가 환경에서 임무를 수행하는 모습입니다.
 
-[내 CartPole 동영상 보기](./SB3/videos/go-left-step-0-to-step-500.mp4)
+![학습결과](./SB3/videos/go-left-step-0-to-step-500.gif)
 
 ## 프로젝트 구조
