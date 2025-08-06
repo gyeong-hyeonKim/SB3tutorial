@@ -9,7 +9,7 @@
 py -<버전> -m venv <가상환경 이름>
 필자는 py -3.10 -m venv .venv 로 실행함
 
-2. 가상환경 실행 : ."\".venv\Scripts\activate
+\2. 가상환경 실행 : .\.venv\Scripts\activate
 
 3. 모듈 및 라이브러리 설치
 pip install -r requirements.txt
